@@ -1,0 +1,48 @@
+.header {
+	padding: 20px 0;	
+	position: relative;
+	z-index: 1;
+}
+
+.header__main {
+	display: flex;
+	justify-content: space-between;
+    align-items: center;
+}
+
+.header-wrap {
+    display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	align-items: center;
+}
+
+.nav {
+	height: 25px;
+    margin: 0 33px;
+    font-family: "Ralewey", sans-serif;	
+}
+
+.nav li {
+	display: inline-block;
+}
+
+.nav a {
+	color: #fff;
+	font-size: 15px;
+	font-weight: 300;	
+    padding: 0 13px;
+	text-decoration: none;
+}
+
+.nav a:hover {
+	color: #c7b299;
+}
+
+.cart {
+	padding: 0 15px;
+}
+
+.search {
+	padding-left: 15px;
+}

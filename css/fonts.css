@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Raleway ExtraBold';
+  src: url('../fonts/raleway-extrabold.ttf'),
+  url('../fonts/raleway-extrabold.woff') format('woff'),
+  url('../fonts/raleway-extrabold.ttf') format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
